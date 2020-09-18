@@ -1,5 +1,5 @@
 agenda = {'base':{'Nombre':'', 'Apellido':'', 'Edad':''}, 'RASTI': {'Nombre': 'Ale', 'Apellido': 'Fer', 'Edad': 33}, 'TUCRO': {'Nombre': 'Asado', 'Apellido': 'Asad', 'Edad': 55}}
-
+print ("Aca boludeando con Ale")
 lista_de_elementos = list(agenda['base'].keys())
 #print(lista_de_elementos)
 #print(lista_de_elementos[0])
@@ -86,3 +86,4 @@ while True:
 	else:
 		print('Ingrese una opcion válida')
 	
+
