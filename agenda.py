@@ -1,3 +1,6 @@
+# holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ahora lo pude modificar!!!!
+
+
 agenda = {'base':{'Nombre':'', 'Apellido':'', 'Edad':''}, 'RASTI': {'Nombre': 'Ale', 'Apellido': 'Fer', 'Edad': 33}, 'TUCRO': {'Nombre': 'Asado', 'Apellido': 'Asad', 'Edad': 55}}
 print ("Aca boludeando con Ale")
 lista_de_elementos = list(agenda['base'].keys())
